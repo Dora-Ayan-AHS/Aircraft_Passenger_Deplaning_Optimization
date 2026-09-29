@@ -1,0 +1,8 @@
+Aircraft Deplaning Times
+-----------------------------------
+Front-to-Back: 92.0 seconds
+Alternating Rows: 86.5 seconds
+Window-Middle-Aisle: 80.0 seconds
+
+Best Method:
+Window-Middle-Aisle (80.0 seconds)
